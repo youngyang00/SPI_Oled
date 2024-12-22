@@ -37,3 +37,4 @@ To drive the PMOD OLED display, a custom SPI interface was implemented with the 
 
 This implementation demonstrates precise hardware control and highlights the efficiency of custom SPI solutions for display interfacing.
 
+![image](https://github.com/user-attachments/assets/8adfa134-dcfd-4d2b-994a-15b1425903d2)

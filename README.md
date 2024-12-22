@@ -15,7 +15,7 @@ This project implements a reaction time game using the **FPGA Z7-20** developmen
 
 ---
 ### Custom SPI Protocol Implementation  
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/134d80dc-1f02-4ffc-8c13-f9a63b08d6f8)
 
 To drive the PMOD OLED display, a custom SPI interface was implemented with the following features:  
 

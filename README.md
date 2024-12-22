@@ -6,7 +6,7 @@ This project implements a reaction time game using the **FPGA Z7-20** developmen
 ---
 
 ## Features  
-- **Platform**: FPGA Z7-20 with ZYNQ Processing System (PS).  
+- **Platform**: FPGA Z7-20 with ZYNQ Processing System With 100MHz Frequency(PS).  
 - **Display**: PMOD OLED (32x128 resolution) controlled via custom SPI interface.  
 - **Input**: Keypad for user interaction.  
 - **Game Mechanism**:  
